@@ -8,8 +8,8 @@ export default defineConfig({
     // sourcemap: true,
     lib: {
       entry: path.resolve(__dirname, 'components/index.ts'),
-      name: '@mozhou-tech/vue3-baidumap',
-      fileName: (format) => `@mozhou-tech/vue3-baidumap.${format}.js`
+      name: '@mozhou-tech/vue3-idb-kv',
+      fileName: (format) => `@mozhou-tech/vue3-idb-kv.${format}.js`
     },
     rollupOptions: {
       // 确保外部化处理那些你不想打包进库的依赖

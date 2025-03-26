@@ -2,7 +2,8 @@
   "name": "@mozhou-tech/vue3-idb-kv",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./dist/@mozhou-tech/vue3-idb-kv.umd.js",
+  "module": "./dist/@mozhou-tech/vue3-idb-kv.es.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build && tsc",

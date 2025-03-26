@@ -1,8 +1,8 @@
 {
-    "name": "baidu-map",
+    "name": "@mozhou-tech/vue3-idb-kv",
     "version": "0.0.1",
     "private": false,
     "scripts": {},
-    "main": "vite-index.ts",
+    "main": "index.ts",
     "dependencies": {}
 }

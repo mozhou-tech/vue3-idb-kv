@@ -16,10 +16,6 @@
     "outDir": "types",
     "skipLibCheck": true, // 忽略所有的声明文件（ *.d.ts）的类型检查。
     "target": "esnext", // 指定ECMAScript目标版本 esnext
-    "types": [ // 要包含的类型声明文件名列表
-      "node",
-      //   "vite/client"
-    ],
     "typeRoots": [
       "../node_modules/@types"
     ],
