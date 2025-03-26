@@ -11,5 +11,16 @@ import {
 } from "idb-keyval";
 
 
+export {
+    set,
+    setMany,
+    get,
+    getMany,
+    del,
+    delMany,
+    clear,
+    keys,
+    values,
+};
 
 
